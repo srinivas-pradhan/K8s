@@ -27,5 +27,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: Commiting Updates to Terraform Documentation. 
-
-
